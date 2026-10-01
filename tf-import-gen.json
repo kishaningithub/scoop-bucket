@@ -1,0 +1,22 @@
+{
+    "version": "0.19.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kishaningithub/tf-import-gen/releases/download/v0.19.2/tf-import-gen_0.19.2_windows_amd64.tar.gz",
+            "bin": [
+                "tf-import-gen.exe"
+            ],
+            "hash": "b5b780e95080bff50671196110b96e4724f507cbf9c5c1b27371b8e8d08a7883"
+        },
+        "arm64": {
+            "url": "https://github.com/kishaningithub/tf-import-gen/releases/download/v0.19.2/tf-import-gen_0.19.2_windows_arm64.tar.gz",
+            "bin": [
+                "tf-import-gen.exe"
+            ],
+            "hash": "548437f7017404cccbb27d86c8ec13b590746ca3f7a9da9a770830421c4cb5ef"
+        }
+    },
+    "homepage": "https://github.com/kishaningithub/tf-import-gen",
+    "license": "MIT",
+    "description": "Tool to generate terraform import statements to simplify state migrations from one terraform code base to another"
+}
