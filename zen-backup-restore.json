@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kishaningithub/zen-backup-restore/releases/download/v1.0.0/zen-backup-restore_1.0.0_windows_amd64.tar.gz",
+            "bin": [
+                "zen-backup-restore.exe"
+            ],
+            "hash": "6b7e8428e2fe8eb39201736430cd4599796f9c944bfda90dbd1b884052f4bb6a"
+        },
+        "arm64": {
+            "url": "https://github.com/kishaningithub/zen-backup-restore/releases/download/v1.0.0/zen-backup-restore_1.0.0_windows_arm64.tar.gz",
+            "bin": [
+                "zen-backup-restore.exe"
+            ],
+            "hash": "6c8fa450aeb2420d896bc7055280e4afed38db294f7f59d2cb1d1261e868f2a7"
+        }
+    },
+    "homepage": "https://github.com/kishaningithub/zen-backup-restore",
+    "license": "MIT",
+    "description": "Back up and restore Zen Browser profiles locally, without any online sync"
+}
