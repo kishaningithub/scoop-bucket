@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kishaningithub/zen-backup-restore/releases/download/v1.0.0/zen-backup-restore_1.0.0_windows_amd64.tar.gz",
+            "url": "https://github.com/kishaningithub/zen-backup-restore/releases/download/v1.1.0/zen-backup-restore_1.1.0_windows_amd64.tar.gz",
             "bin": [
                 "zen-backup-restore.exe"
             ],
-            "hash": "6b7e8428e2fe8eb39201736430cd4599796f9c944bfda90dbd1b884052f4bb6a"
+            "hash": "cd8a0a252cd4b83dcb4cac7ca1656795725da5172fb7058c0f51fa270f2419ea"
         },
         "arm64": {
-            "url": "https://github.com/kishaningithub/zen-backup-restore/releases/download/v1.0.0/zen-backup-restore_1.0.0_windows_arm64.tar.gz",
+            "url": "https://github.com/kishaningithub/zen-backup-restore/releases/download/v1.1.0/zen-backup-restore_1.1.0_windows_arm64.tar.gz",
             "bin": [
                 "zen-backup-restore.exe"
             ],
-            "hash": "6c8fa450aeb2420d896bc7055280e4afed38db294f7f59d2cb1d1261e868f2a7"
+            "hash": "584c9dd6637e37cd0cfc6d6b30e60c61ba990fcbc54cff8ba917f5b1b06411a1"
         }
     },
     "homepage": "https://github.com/kishaningithub/zen-backup-restore",
