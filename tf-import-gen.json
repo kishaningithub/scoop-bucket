@@ -1,19 +1,19 @@
 {
-    "version": "0.19.3",
+    "version": "0.19.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kishaningithub/tf-import-gen/releases/download/v0.19.3/tf-import-gen_0.19.3_windows_amd64.tar.gz",
+            "url": "https://github.com/kishaningithub/tf-import-gen/releases/download/v0.19.4/tf-import-gen_0.19.4_windows_amd64.tar.gz",
             "bin": [
                 "tf-import-gen.exe"
             ],
-            "hash": "b1bc023adb3d6d697cac8fcec1cf5261bffdc8853209a0316794509f6cfdc404"
+            "hash": "2c9ff8a523a82eff64cac847dafcc3349f13fa205fc1fa85387bc61f4d690acb"
         },
         "arm64": {
-            "url": "https://github.com/kishaningithub/tf-import-gen/releases/download/v0.19.3/tf-import-gen_0.19.3_windows_arm64.tar.gz",
+            "url": "https://github.com/kishaningithub/tf-import-gen/releases/download/v0.19.4/tf-import-gen_0.19.4_windows_arm64.tar.gz",
             "bin": [
                 "tf-import-gen.exe"
             ],
-            "hash": "f809dadd121afe2f223da640527c924da68bdc93a41bfcc791c1eda14b39549d"
+            "hash": "65ba4a598ce349ebd6dda2045555f981a08ba7059163e7cd6bcb75919400fca6"
         }
     },
     "homepage": "https://github.com/kishaningithub/tf-import-gen",
